@@ -1,0 +1,11 @@
+2015-05-06 9:07:38 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 9:07:38 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
+2015-05-06 9:08:28 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 9:08:28 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
+2015-05-06 11:09:36 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 11:09:36 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
+2015-08-04 9:51:28 - PHP Notice:  Use of undefined constant STATIc_PATH - assumed 'STATIc_PATH' in /var/www/html/quicknews/catalog/view/theme/default/template/common/test.tpl on line 47
+2015-08-04 10:00:08 - PHP Notice:  Use of undefined constant STATIc_PATH - assumed 'STATIc_PATH' in /var/www/html/quicknews/catalog/view/theme/default/template/common/test.tpl on line 47
+2015-08-04 10:00:41 - PHP Notice:  Use of undefined constant STATIc_PATH - assumed 'STATIc_PATH' in /var/www/html/quicknews/catalog/view/theme/default/template/common/test.tpl on line 47
+2015-08-04 10:28:51 - PHP Notice:  Use of undefined constant STATIc_PATH - assumed 'STATIc_PATH' in /var/www/html/quicknews/catalog/view/theme/default/template/common/test.tpl on line 47
+2015-08-04 10:42:40 - PHP Notice:  Use of undefined constant STATIc_PATH - assumed 'STATIc_PATH' in /var/www/html/quicknews_v2/catalog/view/theme/default/template/common/header.tpl on line 47
